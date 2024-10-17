@@ -19,5 +19,4 @@ $score = 15;
 
 echo 'Your score is: '.($score > 10 ? ($age > 10 ? 'Average':
 'Exception'): ($age > 10 ? 'Horrib;e': 'Average'));
-
 ?>
