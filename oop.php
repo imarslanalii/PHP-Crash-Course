@@ -34,7 +34,6 @@
     }
 
 
-
     // echo person::$agelimit;
 
     // $person1 = new Person('Arslan Ali', 'arslan@gmail.com');
