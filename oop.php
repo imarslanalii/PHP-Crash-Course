@@ -43,7 +43,6 @@
 
     class Customer extends Person{
         private $balance;
-
         public function __construct($name, $email, $balance){
             $this -> balance = $balance;
             parent :: __construct($name, $email, $balance);
@@ -59,6 +58,6 @@
         }
     }
     // $customer1 = new Customer('Ahmd', 'ahmad@gmail.com', 200);
-    // echo $customer1->getBalance();
+    // echo $customer1 -> getBalance();
 
 ?>
