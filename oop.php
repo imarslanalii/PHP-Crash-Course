@@ -48,7 +48,6 @@
             parent :: __construct($name, $email, $balance);
             echo 'A new '.__class__.' has been created<br>';
         }
-
         public function setBalance($balance){
             $this -> balance = $balance;
         }
