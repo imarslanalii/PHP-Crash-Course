@@ -43,4 +43,3 @@ echo $_SERVER['QUERY_STRING'];
 </body>
 </html>
 
-
