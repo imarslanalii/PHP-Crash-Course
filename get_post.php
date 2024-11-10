@@ -42,4 +42,3 @@ echo $_SERVER['QUERY_STRING'];
     </form>
 </body>
 </html>
-
