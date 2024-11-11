@@ -12,7 +12,6 @@
 //     echo $name;
 //  }
 
-
 //  if(isset($_REQUEST['name'])){
 //     // print_r($_REQUEST);
 //     $name = htmlentities($_REQUEST['email']);
