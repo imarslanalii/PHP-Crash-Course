@@ -5,7 +5,6 @@
 //     // echo $name;
 //  }
 
-
 //  if(isset($_POST['name'])){
 //     // print_r($_POST);
 //     $name = htmlentities($_POST['email']);
