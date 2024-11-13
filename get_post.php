@@ -16,7 +16,6 @@
 //     $name = htmlentities($_REQUEST['email']);
 //     echo $name;
 //  }
-
 echo $_SERVER['QUERY_STRING'];
 ?>
 <!DOCTYPE html>
