@@ -1,4 +1,5 @@
 <?php
+// if statement
 //  if(isset($_GET['name'])){
 //     // print_r($_GET);
 //     // $name = htmlentities($_GET['email']);
