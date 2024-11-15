@@ -41,5 +41,4 @@ $compressed = gzcompress($string);
 $original = gzuncompress($compressed);
 
 echo $original;
-
 ?>
