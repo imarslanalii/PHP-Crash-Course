@@ -2,7 +2,6 @@
 # substr()
 // $output = substr('Hello', 1, 3);
 // $output = substr('Hello', -2);
-
 // echo $output;
 
 # strlen()
