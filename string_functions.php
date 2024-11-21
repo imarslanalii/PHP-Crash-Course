@@ -7,7 +7,6 @@
 # strlen()
 
 // $output = strlen('Hello World!');
-
 // echo $output;
 
 # strpos()
