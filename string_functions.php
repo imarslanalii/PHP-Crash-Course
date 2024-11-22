@@ -22,7 +22,6 @@
 # strtoupper
 
 // $output = strtoupper('Hello World!');
-
 // echo $output;
 
 # gzcompress
