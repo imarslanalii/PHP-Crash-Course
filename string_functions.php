@@ -5,7 +5,6 @@
 // echo $output;
 
 # strlen()
-
 // $output = strlen('Hello World!');
 // echo $output;
 
