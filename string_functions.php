@@ -13,7 +13,6 @@
 // echo $output;
 
 # strrpos()
-
 // $output = strrpos('Hello World!');
 // echo $output;
 
