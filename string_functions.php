@@ -17,7 +17,6 @@
 // echo $output;
 
 # strtoupper
-
 // $output = strtoupper('Hello World!');
 // echo $output;
 
