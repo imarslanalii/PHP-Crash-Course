@@ -22,7 +22,6 @@
 
 # gzcompress
 $string = "Hello this is Ali";
-
 $compressed = gzcompress($string);
 
 // echo $compressed;
