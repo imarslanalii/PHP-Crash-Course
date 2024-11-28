@@ -25,7 +25,6 @@ $string = "Hello this is Ali";
 $compressed = gzcompress($string);
 
 // echo $compressed;
-
 $original = gzuncompress($compressed);
 
 echo $original;
