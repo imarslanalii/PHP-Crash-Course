@@ -26,6 +26,5 @@ $compressed = gzcompress($string);
 
 // echo $compressed;
 $original = gzuncompress($compressed);
-
 echo $original;
 ?>
