@@ -17,7 +17,6 @@ $str3 = "They\'re Here";
 $str1 = 'Hey';
 $str2 = 'Ali';
 $greeting = $str1 .' '. $str2;
-
 // $greeting2 = '$str1 $str2';
 $greeting2 = "$str1 $str2";
 
