@@ -2,7 +2,6 @@
 // prefix -$ 
 
 // echo 'Helo this is Arslan Ali'
-
 // $output = 'Hello World!';
 // echo $output;
 
