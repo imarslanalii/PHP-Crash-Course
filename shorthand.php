@@ -1,5 +1,4 @@
 <?php
-
 $loggedIn = false;
 
 // if ($loggedIn){
