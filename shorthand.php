@@ -10,7 +10,6 @@ $loggedIn = false;
 // echo ($loggedIn) ? 'You are a logged in' : 'You are not logged in';
 
 // $isRegistred = ($loggedIn == true) ? true : false; 
-
 // echo $isRegistred;
 
 $age = 7;
