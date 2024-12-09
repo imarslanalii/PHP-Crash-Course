@@ -7,7 +7,6 @@ $loggedIn = false;
 //         echo 'You are not logged in';
 //     }
 // echo ($loggedIn) ? 'You are a logged in' : 'You are not logged in';
-
 // $isRegistred = ($loggedIn == true) ? true : false; 
 // echo $isRegistred;
 
