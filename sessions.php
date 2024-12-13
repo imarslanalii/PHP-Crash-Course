@@ -6,7 +6,6 @@
   Unlike cookies, sessions are stored on the server.
 */
 session_start(); // Must be called before accessing any session data
-
 if (isset($_POST['submit'])) {
   $username = filter_input(
     INPUT_POST,
