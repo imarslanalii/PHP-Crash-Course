@@ -57,6 +57,5 @@
         }
     }
     // $customer1 = new Customer('Ahmd', 'ahmad@gmail.com', 200);
-    
     // echo $customer1 -> getBalance();
 ?>
