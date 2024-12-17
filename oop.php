@@ -3,7 +3,6 @@
         private $name;
         private $email;
         // public static $agelimit = 50;
-
         public function __construct($name, $email){
             $this -> name = $name;
             $this -> email = $email;
