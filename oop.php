@@ -49,7 +49,6 @@
         public function setBalance($balance){
             $this -> balance = $balance;
         }
-    
         public function getBalance(){
             return $this -> balance. '<br>';
         }
