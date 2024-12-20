@@ -38,7 +38,6 @@
 
     // $person1->name = "Arslan Ali";
     // echo $person1 -> name;
-
     class Customer extends Person{
         private $balance;
         public function __construct($name, $email, $balance){
