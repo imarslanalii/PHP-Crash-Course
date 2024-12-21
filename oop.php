@@ -35,7 +35,6 @@
 
     // $person1->setName('Arslan Ali');
     // echo $person1 -> getName();
-
     // $person1->name = "Arslan Ali";
     // echo $person1 -> name;
     class Customer extends Person{
