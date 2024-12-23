@@ -9,7 +9,6 @@
             // echo 'Person created<br>';
             echo __CLASS__.' created<br>';
         }
-
         public function __destruct(){
             echo __CLASS__.' destroyed<br>';
         }
