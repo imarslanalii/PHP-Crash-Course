@@ -12,7 +12,6 @@
         public function __destruct(){
             echo __CLASS__.' destroyed<br>';
         }
-
         public function setName($name){
             $this -> name = $name;
         }
