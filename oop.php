@@ -18,7 +18,6 @@
         public function getName(){
             return $this -> name. '<br>';
         }
-
         public function setEmail($email){
             $this -> email = $email;
         }
