@@ -1,7 +1,6 @@
 <?php
 // For lop
 // Params - init, condition, inc
-
 // for ($i = 0;$i < 10; $i++){
 //     // echo $i;
 //     echo 'Number'. $i;
