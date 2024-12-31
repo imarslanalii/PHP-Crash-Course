@@ -6,7 +6,6 @@
 //     echo 'Number'. $i;
 //     echo '<br>';
 // }
-
 // While loop
 // Params - condition
 
