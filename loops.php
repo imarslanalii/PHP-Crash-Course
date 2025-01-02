@@ -14,7 +14,6 @@
 //     echo $i;
 //     echo '<br>';
 //     $i++;
-
 // }
 
 // do.... While lo0p
