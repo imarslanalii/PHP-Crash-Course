@@ -15,7 +15,6 @@
 //     echo '<br>';
 //     $i++;
 // }
-
 // do.... While lo0p
 // Params - condition
 // $i = 0;
