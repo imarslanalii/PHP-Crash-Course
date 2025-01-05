@@ -23,7 +23,6 @@
 //     echo '<br>';
 //     $i++;
 // }
-
 // while ($i < 10);
 
 // For Each.... loop
