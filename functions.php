@@ -3,7 +3,6 @@
 // camel case - myFunction()
 // lower case - my_Function()
 // pascal cse - MyFunction()
-
 function simpleFunction(){
     echo 'Hello World!';
 }
