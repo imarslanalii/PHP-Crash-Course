@@ -7,7 +7,6 @@ function simpleFunction(){
     echo 'Hello World!';
 }
 // simpleFunction();
-
 // function with param 
 function sayHello($name = 'World!'){
     echo "Hello $name<br>";
