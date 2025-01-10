@@ -11,7 +11,6 @@ function simpleFunction(){
 function sayHello($name = 'World!'){
     echo "Hello $name<br>";
 }
-
 // sayHello("Ali");
 // sayHello('Champ');
 // sayHello();
