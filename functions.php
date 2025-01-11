@@ -15,7 +15,6 @@ function sayHello($name = 'World!'){
 // sayHello('Champ');
 // sayHello();
 
-
 // Return Value 
 function addNumber($num1, $num2){
     return $num1 + $num2;
