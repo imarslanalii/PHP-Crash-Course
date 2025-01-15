@@ -19,7 +19,6 @@ function addNumber($num1, $num2){
     return $num1 + $num2;
 }
 // echo addNumber(5, 5);
-
 // by reference 
 
 $myNum = 10;
