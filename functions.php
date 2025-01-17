@@ -25,7 +25,6 @@ $myNum = 10;
 function addFive($num){
     $num += 5;
 }
-
 function addTen(&$num){
     $num += 10;
 }
