@@ -29,7 +29,6 @@ function addTen(&$num){
     $num += 10;
 }
 addFive($myNum);
-
 echo "Value: $myNum<br>";
 
 addTen($myNum);
