@@ -31,7 +31,6 @@ function addTen(&$num){
 addFive($myNum);
 echo "Value: $myNum<br>";
 addTen($myNum);
-
 echo "Value: $myNum<br>";
 
 ?>
