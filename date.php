@@ -3,7 +3,6 @@
 // echo date('m');
 // echo date('y');
 // echo date('l');   day of the week
-
 // echo date('y/m/d');
 
 // echo date('h');  hour
