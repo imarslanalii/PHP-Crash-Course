@@ -10,7 +10,6 @@
 // echo date('a');  AM OR PM 
 // set time zone 
 date_default_timezone_set('America/New_York');
-
 // echo date('h: i: sa');
 
 
