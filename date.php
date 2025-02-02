@@ -12,7 +12,6 @@
 date_default_timezone_set('America/New_York');
 // echo date('h: i: sa');
 
-
 $timestamp = mktime(14, 14, 54, 06, 21, 2002);
 
 // echo date('m/d/y h:i:sa', $timestamp);
