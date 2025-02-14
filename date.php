@@ -20,4 +20,3 @@ $timestamp2 = strtotime('+2 Months');
 echo date('m/d/y h:i:sa', $timestamp);
 ?>
 
-
