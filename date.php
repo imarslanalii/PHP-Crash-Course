@@ -19,4 +19,3 @@ $timestamp2 = strtotime('next Sunday');
 $timestamp2 = strtotime('+2 Months');
 echo date('m/d/y h:i:sa', $timestamp);
 ?>
-
