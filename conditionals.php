@@ -1,7 +1,6 @@
 <?php
 // Conditionals 
 
-
 // $num = 4;
 
 // if($num >= 5){
