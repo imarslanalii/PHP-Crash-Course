@@ -6,7 +6,6 @@
 // Since cookies are stored on the client, you shouldn't store sensitive data in them. Sessions are a better choice for storing sensitive data.
 // Set a cookie
 setcookie('name', 'Arslan', time() + 86400 * 30); // 86400 = 1 day
-
 // echo time();
 
 // Get a cookie
