@@ -28,7 +28,6 @@
 // For Each.... loop
 
 
-
 $people = array('Kevin', 'Jeny', 'Sara');
 
 foreach($people as $person){
