@@ -24,7 +24,6 @@
 //     $i++;
 // }
 // while ($i < 10);
-
 // For Each.... loop
 
 $people = array('Kevin', 'Jeny', 'Sara');
