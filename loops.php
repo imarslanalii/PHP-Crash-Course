@@ -26,7 +26,6 @@
 // while ($i < 10);
 // For Each.... loop
 $people = array('Kevin', 'Jeny', 'Sara');
-
 foreach($people as $person){
     echo $person;
     echo '<br>';
