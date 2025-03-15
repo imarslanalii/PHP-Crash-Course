@@ -21,7 +21,6 @@ function addNumber($num1, $num2){
 // echo addNumber(5, 5);
 // by reference 
 $myNum = 10;
-
 function addFive($num){
     $num += 5;
 }
