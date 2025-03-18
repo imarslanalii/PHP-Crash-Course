@@ -8,7 +8,6 @@
 // } else {
 //     echo 'did not passed';
 // }
-
 // Nested if 
 
 // $num = 6;
