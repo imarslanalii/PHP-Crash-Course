@@ -10,7 +10,6 @@
 // }
 // Nested if
 // $num = 6;
-
 // if ($num > 4){
 //     if ($num < 10){
 //         echo "$num Passed";
