@@ -17,7 +17,6 @@
 //         echo 'Ehatever';
 //     }
 // }
-
 // Logical Operator (and &&, or ||, xor)
 
 
