@@ -22,7 +22,6 @@
 // if ($num > 4 AND $num < 10){
 //     echo "$num passed";
 // }
-
 // Switch 
 
 $favClolor = 'yellow';
