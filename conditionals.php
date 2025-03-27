@@ -23,7 +23,6 @@
 //     echo "$num passed";
 // }
 // Switch 
-
 $favClolor = 'yellow';
 
 switch($favClolor){
