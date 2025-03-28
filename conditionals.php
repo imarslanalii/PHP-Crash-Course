@@ -24,7 +24,6 @@
 // }
 // Switch 
 $favClolor = 'yellow';
-
 switch($favClolor){
     case 'red':
         echo 'Your Favourite Color is Red';
