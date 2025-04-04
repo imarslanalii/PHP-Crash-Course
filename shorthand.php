@@ -1,6 +1,5 @@
 <?php
 $loggedIn = false;
-
 // if ($loggedIn){
 //     echo 'You are a logged in';
 //     } else { 
