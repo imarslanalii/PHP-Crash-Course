@@ -9,7 +9,6 @@
 # strpos()
 // $output = strpos('Hello World!', 'o');
 // echo $output;
-
 # strrpos()
 // $output = strrpos('Hello World!');
 // echo $output;
