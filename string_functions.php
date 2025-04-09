@@ -12,7 +12,6 @@
 # strrpos()
 // $output = strrpos('Hello World!');
 // echo $output;
-
 # strtoupper
 // $output = strtoupper('Hello World!');
 // echo $output;
