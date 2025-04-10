@@ -15,7 +15,6 @@
 # strtoupper
 // $output = strtoupper('Hello World!');
 // echo $output;
-
 # gzcompress
 $string = "Hello this is Ali";
 $compressed = gzcompress($string);
