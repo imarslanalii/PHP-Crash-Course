@@ -3,7 +3,6 @@
 // echo 'Helo this is Arslan Ali'
 // $output = 'Hello World!';
 // echo $output;
-
 $num1 = 29;
 $num2 = 1;
 $sum = $num1 + $num2;
