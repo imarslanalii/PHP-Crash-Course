@@ -7,7 +7,6 @@ $num1 = 29;
 $num2 = 1;
 $sum = $num1 + $num2;
 // echo $sum;
-
 // $str3 = 'They\'re Here';
 $str3 = "They\'re Here";
 
