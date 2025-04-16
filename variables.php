@@ -9,7 +9,6 @@ $sum = $num1 + $num2;
 // echo $sum;
 // $str3 = 'They\'re Here';
 $str3 = "They\'re Here";
-
 $str1 = 'Hey';
 $str2 = 'Ali';
 $greeting = $str1 .' '. $str2;
