@@ -4,7 +4,6 @@ $ids = array(23, 55, 11);
 $cars = ['Honde', 'Toyota', 'Ford'];
 $cars[3] = 'Corola';
 $cars[] = 'BMW';
-
 // echo count($cars);
 // print_r($cars);
 // var_dump($cars);
