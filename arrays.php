@@ -7,7 +7,6 @@ $cars[] = 'BMW';
 // echo count($cars);
 // print_r($cars);
 // var_dump($cars);
-
 // echo $people[1];
 // echo $ids[0];
 // echo $cars[4];
