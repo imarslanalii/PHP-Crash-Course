@@ -10,7 +10,6 @@ $cars[] = 'BMW';
 // echo $people[1];
 // echo $ids[0];
 // echo $cars[4];
-
 // Associative Arrays
 $people = array('Kevin' =>35, 'Jeny' => 55, 'Sara' => 12);
 $ids = [22 => 'Butter', 45 => 'Jose'];
