@@ -19,7 +19,6 @@ $people ['jill'] = 44;
 // echo $people['jill'];
 // print_r($cars);
 // var_dump($cars);
-
 // Multi Dimensio Array
 $cars = array(
     array('Honda', 20, 10),
