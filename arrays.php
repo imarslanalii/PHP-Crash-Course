@@ -24,7 +24,6 @@ $cars = array(
     array('Honda', 20, 10),
     array('Ford', 23, 12),
 );
-
 echo $cars[1][0];  //23
 
 
