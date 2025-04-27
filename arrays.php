@@ -26,5 +26,4 @@ $cars = array(
 );
 echo $cars[1][0];  //23
 
-
 ?>
