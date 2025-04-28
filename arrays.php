@@ -25,5 +25,4 @@ $cars = array(
     array('Ford', 23, 12),
 );
 echo $cars[1][0];  //23
-
 ?>
