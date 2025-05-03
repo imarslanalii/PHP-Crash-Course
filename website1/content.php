@@ -12,7 +12,6 @@
         <li><a href="content.php">Content</a></li>
     </ul>
     <h1>Content</h1>
-
     <footer>
         <p>Mywebsite &copy; 2024</p>
     </footer>
