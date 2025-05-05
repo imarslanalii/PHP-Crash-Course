@@ -16,7 +16,7 @@
         <p>Mywebsite &copy; 2024</p>
     </footer>
 </body>
-</html> -->
+</html> 
 <?php include 'inc/header.php'; ?>
     <h1>Content</h1>
 <?php include 'inc/footer.php'; 
