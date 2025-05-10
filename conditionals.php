@@ -18,7 +18,6 @@
 //     }
 // }
 // Logical Operator (and &&, or ||, xor)
-
 // if ($num > 4 AND $num < 10){
 //     echo "$num passed";
 // }
